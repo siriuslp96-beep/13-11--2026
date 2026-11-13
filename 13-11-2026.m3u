@@ -173,6 +173,53 @@ http://vpn.zdiptv.xyz:80/play/live.php?mac=00:1B:79:F8:A7:4A&stream=1032526&exte
 http://main.light-ott.net:80/play/live.php?mac=00:1B:79:1D:3A:6C&stream=1314088&extension=ts&play_token=OrHNojt78Q
 
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/nowsports1.png" group-title="Now Sports HK",HK| NOW SPORTS 4K 1
+http://nocf.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:7F:10:0F&stream=146846&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/nowsports2.png" group-title="Now Sports HK",HK| NOW SPORTS 4K 2
+http://nocf.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:7F:10:0F&stream=146845&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/nowsports3.png" group-title="Now Sports HK",HK| NOW SPORTS 4K 3
+http://nocf.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:7F:10:0F&stream=146844&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/nowsportspremierleaguetv.png" group-title="Now Sports HK",HK| NOW SPORTS PREMIER LEAGUE TV FHD
+http://nocf.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:7F:10:0F&stream=146843&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/nowsportspremierleague1.png" group-title="Now Sports HK",HK| NOW SPORTS PREMIER LEAGUE 1 FHD
+http://nocf.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:7F:10:0F&stream=146842&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/nowsportspremierleague2.png" group-title="Now Sports HK",HK| NOW SPORTS PREMIER LEAGUE 2 FHD
+http://nocf.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:7F:10:0F&stream=146841&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/nowsportspremierleague3.png" group-title="Now Sports HK",HK| NOW SPORTS PREMIER LEAGUE 3 FHD [MULTI-AUDIO]
+http://nocf.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:7F:10:0F&stream=146840&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/nowsportspremierleague4.png" group-title="Now Sports HK",HK| NOW SPORTS PREMIER LEAGUE 4 FHD [Multi-audio]
+http://nocf.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:7F:10:0F&stream=146839&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/nowsportspremierleague5.png" group-title="Now Sports HK",HK| NOW SPORTS PREMIER LEAGUE 5 FHD [Multi-audio]
+http://nocf.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:7F:10:0F&stream=146838&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/nowsportspremierleague6.png" group-title="Now Sports HK",HK| NOW SPORTS PREMIER LEAGUE 6 FHD [Multi-audio]
+http://nocf.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:7F:10:0F&stream=146837&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/nowsportspremierleague1.png" group-title="Now Sports HK",HK| NOW SPORTS PREMIER LEAGUE 7 FHD [Multi-audio]
+http://nocf.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:7F:10:0F&stream=146836&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/nowsportsprime.png" group-title="Now Sports HK",HK| NOW SPORTS PRIME FHD
+http://nocf.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:7F:10:0F&stream=146835&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/nowsportsplus.png" group-title="Now Sports HK",HK| NOW SPORTS PLUS FHD
+http://nocf.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:7F:10:0F&stream=146834&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/nowsports1.png" group-title="Now Sports HK",HK| NOW SPORTS 1 FHD [MULTI-AUDIO]
+http://nocf.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:7F:10:0F&stream=146833&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/nowsports2.png" group-title="Now Sports HK",HK| NOW SPORTS 2 FHD [MULTI-AUDIO]
+http://nocf.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:7F:10:0F&stream=146832&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/nowsports3.png" group-title="Now Sports HK",HK| NOW SPORTS 3 FHD [MULTI-AUDIO]
+http://nocf.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:7F:10:0F&stream=146831&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/nowsports4.png" group-title="Now Sports HK",HK| NOW SPORTS 4 FHD [MULTI-AUDIO]
+http://nocf.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:7F:10:0F&stream=146830&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/nowsports5.png" group-title="Now Sports HK",HK| NOW SPORTS 5 FHD [MULTI-AUDIO]
+http://nocf.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:7F:10:0F&stream=146829&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/nowsports6.png" group-title="Now Sports HK",HK| NOW SPORTS 6 FHD [MULTI-AUDIO]
+http://nocf.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:7F:10:0F&stream=146828&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/nowsports7.png" group-title="Now Sports HK",HK| NOW SPORTS 7 FHD [MULTI-AUDIO]
+http://nocf.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:7F:10:0F&stream=146827&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/beinsports1.png" group-title="Now Sports HK",HK| beIN SPORTS 1 FHD
+http://nocf.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:7F:10:0F&stream=146826&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/beinsports2.png" group-title="Now Sports HK",HK| beIN SPORTS 2 FHD
+http://nocf.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:7F:10:0F&stream=146825&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/beinsports3.png" group-title="Now Sports HK",HK| beIN SPORTS 3 FHD
+http://nocf.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:7F:10:0F&stream=146824&extension=ts
+#EXTM3U
 #EXTINF:0,live.php?mac=00:1A:79:7F:10:0F&stream=58060&extension=ts&play_token=oK0no9S4Sh
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://nocf.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:7F:10:0F&stream=58060&extension=ts&play_token=oK0no9S4Sh
@@ -182,4 +229,4 @@ http://nocf.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:7F:10:0F&stream=5
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://nocf.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:7F:10:0F&stream=58056&extension=ts&play_token=l0kzR8fDKU
 
-
+http://nocf.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:7F:10:0F&stream=146842&extension=ts&play_token=fgP5JtGAt3
