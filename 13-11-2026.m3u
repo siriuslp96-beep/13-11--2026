@@ -1,0 +1,185 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/skysportsplus.png" group-title="Sports",Sky Sports Plus SD
+http://nocf.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:7F:10:0F&stream=58066&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/skysportsplus.png" group-title="Sports",Sky Sports Plus HD
+http://nocf.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:7F:10:0F&stream=58065&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/skysportsplus.png" group-title="Sports",Sky Sports Plus FHD
+http://nocf.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:7F:10:0F&stream=58064&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/skysportsmainevent.png" group-title="Sports",Sky Sports Main Event SD
+http://nocf.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:7F:10:0F&stream=58063&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/skysportsmainevent.png" group-title="Sports",Sky Sports Main Event HD
+http://nocf.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:7F:10:0F&stream=58062&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/skysportsmainevent.png" group-title="Sports",Sky Sports Main Event FHD
+http://nocf.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:7F:10:0F&stream=58060&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/skysportsmainevent.png" group-title="Sports",Sky Sports Main Event UHD
+http://nocf.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:7F:10:0F&stream=58059&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/skysportspremierleague.png" group-title="Sports",Sky Sports Premier League SD
+http://nocf.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:7F:10:0F&stream=58058&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/skysportspremierleague.png" group-title="Sports",Sky Sports Premier League HD
+http://nocf.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:7F:10:0F&stream=58057&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/skysportspremierleague.png" group-title="Sports",Sky Sports Premier League FHD
+http://nocf.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:7F:10:0F&stream=58056&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/skysportsfootball.png" group-title="Sports",Sky Sports Football SD
+http://nocf.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:7F:10:0F&stream=58055&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/skysportsfootball.png" group-title="Sports",Sky Sports Football HD
+http://nocf.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:7F:10:0F&stream=58054&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/skysportsfootball.png" group-title="Sports",Sky Sports Football FHD
+http://nocf.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:7F:10:0F&stream=58053&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/skysportstennis.png" group-title="Sports",Sky Sports Tennis SD
+http://nocf.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:7F:10:0F&stream=58052&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/skysportstennis.png" group-title="Sports",Sky Sports Tennis HD
+http://nocf.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:7F:10:0F&stream=58051&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/skysportstennis.png" group-title="Sports",Sky Sports Tennis FHD
+http://nocf.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:7F:10:0F&stream=58050&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/skysportscricket.png" group-title="Sports",Sky Sports Cricket SD
+http://nocf.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:7F:10:0F&stream=58049&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/skysportscricket.png" group-title="Sports",Sky Sports Cricket HD
+http://nocf.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:7F:10:0F&stream=58048&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/skysportscricket.png" group-title="Sports",Sky Sports Cricket FHD
+http://nocf.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:7F:10:0F&stream=58047&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/skysportsgolf.png" group-title="Sports",Sky Sports Golf SD
+http://nocf.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:7F:10:0F&stream=58046&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/skysportsgolf.png" group-title="Sports",Sky Sports Golf HD
+http://nocf.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:7F:10:0F&stream=58045&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/skysportsgolf.png" group-title="Sports",Sky Sports Golf FHD
+http://nocf.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:7F:10:0F&stream=58044&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/skysportsaction.png" group-title="Sports",Sky Sports Action SD
+http://nocf.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:7F:10:0F&stream=58043&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/skysportsaction.png" group-title="Sports",Sky Sports Action HD
+http://nocf.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:7F:10:0F&stream=58042&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/skysportsaction.png" group-title="Sports",Sky Sports Action FHD
+http://nocf.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:7F:10:0F&stream=58041&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/skysportsracing.png" group-title="Sports",Sky Sports Racing SD
+http://nocf.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:7F:10:0F&stream=58040&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/skysportsracing.png" group-title="Sports",Sky Sports Racing HD
+http://nocf.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:7F:10:0F&stream=58039&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/skysportsracing.png" group-title="Sports",Sky Sports Racing FHD
+http://nocf.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:7F:10:0F&stream=58038&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/skysportsf1.png" group-title="Sports",Sky Sports F1 SD
+http://nocf.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:7F:10:0F&stream=58037&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/skysportsf1.png" group-title="Sports",Sky Sports F1 HD
+http://nocf.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:7F:10:0F&stream=58036&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/skysportsf1.png" group-title="Sports",Sky Sports F1 FHD
+http://nocf.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:7F:10:0F&stream=58035&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/skysportsf1.png" group-title="Sports",Sky Sports F1 UHD
+http://nocf.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:7F:10:0F&stream=58034&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/skysportsmix.png" group-title="Sports",Sky Sports Mix SD
+http://nocf.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:7F:10:0F&stream=58033&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/skysportsmix.png" group-title="Sports",Sky Sports Mix HD
+http://nocf.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:7F:10:0F&stream=58032&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/skysportsmix.png" group-title="Sports",Sky Sports Mix FHD
+http://nocf.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:7F:10:0F&stream=58031&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/skysportsnews.png" group-title="Sports",Sky Sports News SD
+http://nocf.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:7F:10:0F&stream=58030&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/skysportsnews.png" group-title="Sports",Sky Sports News HD
+http://nocf.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:7F:10:0F&stream=58029&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/skysportsnews.png" group-title="Sports",Sky Sports News FHD
+http://nocf.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:7F:10:0F&stream=58028&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/racingtv.png" group-title="Sports",Racing TV SD
+http://nocf.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:7F:10:0F&stream=58027&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/racingtv.png" group-title="Sports",Racing TV HD
+http://nocf.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:7F:10:0F&stream=58026&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/racingtv.png" group-title="Sports",Racing TV FHD
+http://nocf.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:7F:10:0F&stream=58025&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/lfctv.png" group-title="Sports",LFC TV SD
+http://nocf.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:7F:10:0F&stream=58024&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/lfctv.png" group-title="Sports",LFC TV HD
+http://nocf.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:7F:10:0F&stream=58023&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/lfctv.png" group-title="Sports",LFC TV FHD
+http://nocf.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:7F:10:0F&stream=58022&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/mutv.png" group-title="Sports",MUTV SD
+http://nocf.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:7F:10:0F&stream=58021&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/mutv.png" group-title="Sports",MUTV HD
+http://nocf.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:7F:10:0F&stream=58019&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/mutv.png" group-title="Sports",MUTV FHD
+http://nocf.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:7F:10:0F&stream=58018&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/viaplaysports1.png" group-title="Sports",Viaplay Sports 1 FHD
+http://nocf.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:7F:10:0F&stream=58017&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/viaplaysports2.png" group-title="Sports",Viaplay Sports 2 FHD
+http://nocf.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:7F:10:0F&stream=58016&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/viaplayxtra.png" group-title="Sports",Viaplay Xtra SD
+http://nocf.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:7F:10:0F&stream=58015&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/viaplayxtra.png" group-title="Sports",Viaplay Xtra FHD
+http://nocf.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:7F:10:0F&stream=58014&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/tntsports1.png" group-title="Sports",TNT Sports 1 SD
+http://nocf.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:7F:10:0F&stream=58013&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/tntsports1.png" group-title="Sports",TNT Sports 1 HD
+http://nocf.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:7F:10:0F&stream=58012&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/tntsports1.png" group-title="Sports",TNT Sports 1 FHD
+http://nocf.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:7F:10:0F&stream=58011&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/tntsports2.png" group-title="Sports",TNT Sports 2 SD
+http://nocf.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:7F:10:0F&stream=58010&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/tntsports2.png" group-title="Sports",TNT Sports 2 HD
+http://nocf.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:7F:10:0F&stream=58009&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/tntsports2.png" group-title="Sports",TNT Sports 2 FHD
+http://nocf.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:7F:10:0F&stream=58008&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/tntsports3.png" group-title="Sports",TNT Sports 3 SD
+http://nocf.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:7F:10:0F&stream=58007&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/tntsports3.png" group-title="Sports",TNT Sports 3 HD
+http://nocf.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:7F:10:0F&stream=58006&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/tntsports3.png" group-title="Sports",TNT Sports 3 FHD
+http://nocf.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:7F:10:0F&stream=58005&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/tntsports4.png" group-title="Sports",TNT Sports 4 SD
+http://nocf.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:7F:10:0F&stream=58004&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/tntsports4.png" group-title="Sports",TNT Sports 4 HD
+http://nocf.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:7F:10:0F&stream=58003&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/tntsports4.png" group-title="Sports",TNT Sports 4 FHD
+http://nocf.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:7F:10:0F&stream=58002&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/premiersports1.png" group-title="Sports",Premier Sports 1 SD
+http://nocf.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:7F:10:0F&stream=58001&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/premiersports1.png" group-title="Sports",Premier Sports 1 HD
+http://nocf.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:7F:10:0F&stream=58000&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/premiersports1.png" group-title="Sports",Premier Sports 1 FHD
+http://nocf.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:7F:10:0F&stream=57999&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/premiersports2.png" group-title="Sports",Premier Sports 2 SD
+http://nocf.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:7F:10:0F&stream=57998&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/premiersports2.png" group-title="Sports",Premier Sports 2 HD
+http://nocf.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:7F:10:0F&stream=57997&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/premiersports2.png" group-title="Sports",Premier Sports 2 FHD
+http://nocf.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:7F:10:0F&stream=57996&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/tntsports5.png" group-title="Sports",TNT Sports 5 (Event Only)
+http://nocf.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:7F:10:0F&stream=57995&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/tntsports5.png" group-title="Sports",TNT Sports 5 FHD (Event Only)
+http://nocf.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:7F:10:0F&stream=57994&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/tntsports6.png" group-title="Sports",TNT Sports 6 (Event Only)
+http://nocf.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:7F:10:0F&stream=57993&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/tntsports7.png" group-title="Sports",TNT Sports 7 (Event Only)
+http://nocf.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:7F:10:0F&stream=57992&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/tntsports8.png" group-title="Sports",TNT Sports 8 (Event Only)
+http://nocf.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:7F:10:0F&stream=57991&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/tntsports9.png" group-title="Sports",TNT Sports 9 (Event Only)
+http://nocf.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:7F:10:0F&stream=57990&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/tntsportsultimate.png" group-title="Sports",TNT Sports Ultimate SD
+http://nocf.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:7F:10:0F&stream=57989&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/tntsportsultimate.png" group-title="Sports",TNT Sports Ultimate HD
+http://nocf.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:7F:10:0F&stream=57988&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/tntsportsultimate.png" group-title="Sports",TNT Sports Ultimate  UHD
+http://nocf.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:7F:10:0F&stream=57987&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/test.png" group-title="Sports",RAW F1 TEST
+http://nocf.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:7F:10:0F&stream=169466&extension=ts
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/HUBPREMIER1.png",UK| HUB PREMIER 1 FHD
+http://vpn.zdiptv.xyz:80/play/live.php?mac=00:1B:79:F8:A7:4A&stream=1032529&extension=ts&play_token=ZQYKC9s1Io
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/HUBPREMIER2.png",UK| HUB PREMIER 2 FHD
+http://vpn.zdiptv.xyz:80/play/live.php?mac=00:1B:79:F8:A7:4A&stream=1032528&extension=ts&play_token=xMJF2BfV3f
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/HUBPREMIER2.png",UK| HUB PREMIER 2 UHD
+http://vpn.zdiptv.xyz:80/play/live.php?mac=00:1B:79:F8:A7:4A&stream=1032518&extension=ts&play_token=UrLXuAmkb3
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/HUBPREMIER3.png",UK| HUB PREMIER 3 FHD
+http://vpn.zdiptv.xyz:80/play/live.php?mac=00:1B:79:F8:A7:4A&stream=1032527&extension=ts&play_token=Yc199pAMkO
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/HUBPREMIER4.png",UK| HUB PREMIER 4 FHD
+http://vpn.zdiptv.xyz:80/play/live.php?mac=00:1B:79:F8:A7:4A&stream=1032526&extension=ts&play_token=CDPgWs5IAP
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/┃UK┃ HUB PREMIER PPV/HUB PREMIER 1.png",┃UK┃ HUB PREMIER 2 4K UHD
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:1D:3A:6C&stream=1314088&extension=ts&play_token=OrHNojt78Q
+
+#EXTM3U
+#EXTINF:0,live.php?mac=00:1A:79:7F:10:0F&stream=58060&extension=ts&play_token=oK0no9S4Sh
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://nocf.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:7F:10:0F&stream=58060&extension=ts&play_token=oK0no9S4Sh
+
+#EXTM3U
+#EXTINF:0,live.php?mac=00:1A:79:7F:10:0F&stream=58056&extension=ts&play_token=l0kzR8fDKU
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://nocf.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:7F:10:0F&stream=58056&extension=ts&play_token=l0kzR8fDKU
+
+
